@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+
+:root {
+  --font-family : 'Lumanosimo', cursive;
+  --bg-color: #0E2954;
+  --primary-color: #46C2CB;
+}
